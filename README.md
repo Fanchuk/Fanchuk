@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3eWp5ZnR6eWp5ZnR6eWp5ZnR6eWp5ZnR6eWp5ZnR6eWp5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WJCgZWWvOm/giphy.gif" width="200">
+</p>
 
 <h1 align="center">Привіт, я Назар! 👋</h1>
 <h3 align="center">Junior Frontend Developer | Студент Львівської Політехніки</h3>
